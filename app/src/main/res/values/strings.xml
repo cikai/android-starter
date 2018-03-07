@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">android-starter</string>
+  <string name="list_view_button">ListView Demo</string>
+  <string name="title_edit_text">Type Here...</string>
+  <string name="title_button">Go</string>
+  <string name="browser_button">Visit Baidu</string>
+</resources>
